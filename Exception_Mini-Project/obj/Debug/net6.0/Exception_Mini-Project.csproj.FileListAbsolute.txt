@@ -1,0 +1,15 @@
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\bin\Debug\net6.0\Exception_Mini-Project.exe
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\bin\Debug\net6.0\Exception_Mini-Project.deps.json
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\bin\Debug\net6.0\Exception_Mini-Project.runtimeconfig.json
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\bin\Debug\net6.0\Exception_Mini-Project.dll
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\bin\Debug\net6.0\ref\Exception_Mini-Project.dll
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\bin\Debug\net6.0\Exception_Mini-Project.pdb
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\Exception_Mini-Project.csproj.AssemblyReference.cache
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\Exception_Mini-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\Exception_Mini-Project.AssemblyInfoInputs.cache
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\Exception_Mini-Project.AssemblyInfo.cs
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\Exception_Mini-Project.csproj.CoreCompileInputs.cache
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\Exception_Mini-Project.dll
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\ref\Exception_Mini-Project.dll
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\Exception_Mini-Project.pdb
+C:\gc_repos\lab_Exception_Mini-Project\Exception_Mini-Project\obj\Debug\net6.0\Exception_Mini-Project.genruntimeconfig.cache
